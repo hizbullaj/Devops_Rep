@@ -1,7 +1,0 @@
-print("Hello GitHub!") 
-print("Hizbullah")
-print("Hello World!")
-print("Hi Engineers!")
-print("inti")
-print("Hello Everyone!world")
-print("hassnaini")
